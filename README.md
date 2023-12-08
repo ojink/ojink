@@ -59,3 +59,9 @@ Here are some ideas to get you started:
 
 ### Portfolio 는 여기
 [<img alt="Static Badge" src="https://img.shields.io/badge/notion-%23000000?logo=notion&logoColor=%23fff&labelColor=%23000000">](https://learnit-oh.notion.site/OH-477446476fac4d8089586919ef95b8b9?pvs=4)
+
+
+
+
+### 참고 링크
+깃명령어 :   https://github.com/jeonghwan-kim/git-usage
