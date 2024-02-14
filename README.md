@@ -65,3 +65,7 @@ Here are some ideas to get you started:
 
 ### 참고 링크
 깃명령어 :   https://github.com/jeonghwan-kim/git-usage
+
+
+### 박지민씨 개별 프로젝트
+https://learnit-oh.notion.site/FAQ-eb64502745d74e84b4a72b6e08551c89
